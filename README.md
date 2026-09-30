@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://aepto.com/">
-  <img src="https://aepto.com/wp-content/uploads/2026/09/Free-vs-Paid-Domain-Monitoring-The-Hidden-Cost-of-Free-4.png" alt="Aepto" width="180">
+  <img src="https://aepto.com/wp-content/uploads/2025/12/aepto-light-1.png" alt="Aepto" width="180">
 </a>
 
 # Aepto
